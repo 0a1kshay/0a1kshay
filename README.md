@@ -6,7 +6,7 @@ B.Tech CSE Student | Full Stack Developer | Open Source & GSoC Aspirant
 ---
 
 ## 🌱 About Me
-- 🎓 B.Tech student in Computer Science & Engineering  
+- 🎓 B.E student in Computer Science & Engineering  
 - 💼 Currently pursuing a **Full Stack Development Internship**  
 - 🚀 Participated in **8+ Hackathons**, gaining hands-on problem-solving experience  
 - 🏆 Successfully cracked **3+ internships**  
