@@ -1,6 +1,6 @@
 <h1 align="center">Heyaa! I'm Akshay 👋</h1>
 <h3 align="center">
-B.Tech CSE Student | Full Stack Developer | Open Source & GSoC Aspirant
+B.E CSE Graduate | Full Stack Developer | Open Source Contributor
 </h3>
 
 ---
@@ -10,7 +10,7 @@ B.Tech CSE Student | Full Stack Developer | Open Source & GSoC Aspirant
 - 💼 Currently pursuing a **Full Stack Development Internship**  
 - 🚀 Participated in **8+ Hackathons**, gaining hands-on problem-solving experience  
 - 🏆 Successfully cracked **3+ internships**  
-- 🌍 Actively exploring **Open Source contributions** and preparing for **GSoC**
+- 🌍 Actively exploring **Open Source contributions** 
 
 ---
 
